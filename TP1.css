@@ -1,0 +1,32 @@
+td {
+    vertical-align: top
+}
+h2 {
+    vertical-align:top;
+    padding:0em;
+    margin:0em;
+}
+
+img{
+
+    float : left;
+    width:10em;
+}
+div p{
+    margin-top:2em;
+    vertical-align:top;
+}
+div table,th,td,tr{
+    clear:left;
+   border: 1px solid black;
+    border-collapse: collapse;
+}
+div h3{
+    clear:left;
+}
+body{
+    margin-left:4em;
+    margin-right:4em;
+    background-color: red
+}
+div{background-color: white }
